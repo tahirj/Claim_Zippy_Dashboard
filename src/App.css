@@ -326,7 +326,7 @@ display: flex;
 
 
 /* styles for devices with a maximum screen width of 480px */
-  @media only screen and (max-width: 480px) {
+  /* @media only screen and (max-width: 480px) {
     
 
     .Sidebar{
@@ -353,10 +353,10 @@ display: flex;
     
     }
 
-    /* .top-header-container {
+    .top-header-container {
       display: flex;
-    } */
+    }
     
     .main-content {
       display: flex;
-    }
+    } */
